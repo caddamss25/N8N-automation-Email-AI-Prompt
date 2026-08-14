@@ -1,0 +1,6 @@
+ID	Name	Age	Course	Email	Phone	Status
+1	John	20	Mathematics	john@email.com	9876543210	Active
+2	Sarah	22	Physics	sarah@email.com	9876543211	Active
+3	Michael	21	Chemistry	michael@email.com	9876543212	Inactive
+4	Emma	23	Biology	emma@email.com	9876543213	Active
+5	David	19	Computer Sci	david@email.com	9876543214	Active
